@@ -1,1 +1,4 @@
-Charly * born in: San Francisco
+Charly 
+* Born in: San Francisco.
+* Favorite color: Green.
+
