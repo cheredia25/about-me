@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+Charly * born in: San Francisco
+Copyright
+=======
+Charly 
+* Born in: San Francisco.
+* Favorite color: Green.
+
+>>>>>>> add-fav-color
