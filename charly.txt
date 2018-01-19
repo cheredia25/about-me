@@ -1,6 +1,6 @@
 Copyright
 
-Charly 
+CHARLY 
 * Born in: San Francisco.
 * Favorite color: Green.
 
