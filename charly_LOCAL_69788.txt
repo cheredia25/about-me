@@ -2,10 +2,6 @@ Copyright
 
 Charly 
 * Born in: San Francisco.
-<<<<<<< HEAD
 * Favorite color: Green.
-=======
-* Favorite color: No, yellow!
->>>>>>> yellow
 
 
