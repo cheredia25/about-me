@@ -3,5 +3,7 @@ Copyright
 CHARLY 
 * Born in: San Francisco.
 * Favorite color: Green.
+* Dog's name: Kayna.
+
 
 
